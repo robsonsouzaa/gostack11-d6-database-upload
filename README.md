@@ -12,7 +12,8 @@
 
 ## :rocket: Sobre o desafio
 
-Continuar com o desenvolvimento da aplicação de gestão de transações, colocando em prática o que aprendi até agora no Node.js junto com TypeScript, mas dessa vez incluindo os dados em um banco de dados com o TypORM e envio de arquivos com o Multer.
+Continuar com o desenvolvimento da aplicação de gestão de transações, colocando em prática o que aprendi até agora no Node.js junto com TypeScript, mas dessa vez incluindo os dados em um banco de dados com o TypeORM e envio de arquivos com o Multer.
+
 Além de armazenar as transações de entrada e saída e permitir o cadastro e listagem das mesmas, a aplicação deve permitir a criação de novos registros no banco de dados a partir do envio de um arquivo .csv.
 
 ## :memo: Licença
@@ -21,4 +22,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-by Robson Souza
+by [Robson Souza](https://github.com/souzaex)
