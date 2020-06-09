@@ -22,4 +22,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-by [Robson Souza](https://github.com/souzaex)
+by [Robson Souza](https://github.com/robsonsouzaa)
